@@ -1,1 +1,2 @@
-# ems-algasensors-temperature-processing
+# temperature-processing
+See full description on main project.
